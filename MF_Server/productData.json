@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Party Primary Information",
+    "imageUrl": "PPI.jpeg",
+    "description": "A party is any individual or business entity having a banking relationship with the bank. to Party linkage is required by medium and large corporates if the user(s) of the parent company needs to access accounts of the subsidiary companies. Please Find the below Menu for accessing Party Primary Information "
+  },
+  {
+    "id": 2,
+    "name": "Party Tax Profile",
+    "imageUrl": "PTP.jpg",
+    "description": "A party is any individual or business entity having a banking relationship with the bank. to Party linkage is required by medium and large corporates if the user(s) of the parent company needs to access accounts of the subsidiary companies. Please Find the below Menu for accessing Party Primary Information "
+  },
+  {
+    "id": 3,
+    "name": "Party Contact Point",
+    "imageUrl": "PCP.jpg",
+    "description": "A party is any individual or business entity having a banking relationship with the bank. to Party linkage is required by medium and large corporates if the user(s) of the parent company needs to access accounts of the subsidiary companies. Please Find the below Menu for accessing Party Primary Information "
+  },
+  {
+    "id": 4,
+    "name": "Party Miscellaneous Info",
+    "imageUrl": "PMI.jpg",
+    "description": "A party is any individual or business entity having a banking relationship with the bank. to Party linkage is required by medium and large corporates if the user(s) of the parent company needs to access accounts of the subsidiary companies. Please Find the below Menu for accessing Party Primary Information "
+  },
+  {
+    "id": 5,
+    "name": "Party Profile",
+    "imageUrl": "PP.jpeg",
+    "description": "A party is any individual or business entity having a banking relationship with the bank. to Party linkage is required by medium and large corporates if the user(s) of the parent company needs to access accounts of the subsidiary companies. Please Find the below Menu for accessing Party Primary Information "
+  },
+  {
+    "id": 6,
+    "name": "Account Contact Point",
+    "imageUrl": "ACP.jpg",
+    "description": "A party is any individual or business entity having a banking relationship with the bank. to Party linkage is required by medium and large corporates if the user(s) of the parent company needs to access accounts of the subsidiary companies. Please Find the below Menu for accessing Party Primary Information "
+  }
+]

@@ -1,0 +1,54 @@
+.details-content-container {
+  padding: 115px;
+  margin : 10;
+  
+  .ml-2 {
+    margin-left: 20px;
+  }
+
+  .mb-2{
+    margin-bottom: 20px;
+  }
+
+  .details-content-row {
+    display: flex;
+  
+  }
+
+  img {
+    max-height: 300px;
+  }
+
+  hr {
+    border: 1px dashed;
+  }
+
+  .align-center{
+    align-items: center;
+  }
+
+  .details-content-book-movie{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+  }
+
+  .details-content-column {
+    display: flex;
+    flex-direction: column;    
+  }
+
+  .movie-title{
+    margin-bottom: 0px;
+    color: rgb(19, 19, 19);
+    font-size: 24px;
+    font-weight: lighter;
+  }
+
+  .description{
+    margin-bottom: 0;
+    color:rgb(19, 19, 19);
+    font-size: 14px;
+    font-weight: lighter;
+  }
+}
